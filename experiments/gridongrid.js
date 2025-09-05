@@ -7,12 +7,12 @@ function setup() {
   rectMode(CENTER);
 
   brightColors = [
-    color(255, 0, 0), // red
-    color(255, 255, 0), // yellow
-    color(0, 255, 0), // green
-    color(0, 0, 255), // blue
-    color(255, 0, 255), // magenta / pink
-    color(255, 255, 255), // white
+    color(255, 0, 0),
+    color(255, 255, 0),
+    color(0, 255, 0),
+    color(0, 0, 255),
+    color(255, 0, 255),
+    color(255, 255, 255),
   ];
 }
 
