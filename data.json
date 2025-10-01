@@ -48,6 +48,6 @@
   {
     "file": "experiments/squarerandom_tone.js",
     "name": "Name of your experiment",
-    "description": "Here I have used the sqaure random patter and added some sound to it.The idea was to show how tone changes with the movement of colors."
+    "description": "Here I have used the sqaure random pattern and added some sound to it.The idea was to show how tone changes with the movement of colors."
   }
 ]
