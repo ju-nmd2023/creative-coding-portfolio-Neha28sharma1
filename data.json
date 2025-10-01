@@ -1,12 +1,53 @@
 [
   {
-    "file": "experiments/grid1.js",
+    "file": "experiments/square.js",
     "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "description": "The main idea is to create a grid of squares that are randomly filled with color. The purpose is to create a visually appealing pattern that is both random and structured. The coding process involved creating a grid of squares and then using a random function to fill each square with a color. The implementation choices included using a fixed grid size and a limited color palette to create a cohesive look."
   },
   {
-    "file": "experiments/gridongrid.js",
+    "file": "experiments/squarerandom.js",
     "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "description": "It is the variation of grid of squares where I tried to give some random movements to the colors. The idea was to create something visually appealing and dynamic."
+  },
+  {
+    "file": "experiments/manfred_mohr.js",
+    "name": "Name of your experiment",
+    "description": "The inspiration is from Manfred mohr artpiece shared in lecture. The idea was to create something similar so I created a grid on grid and tried to add some colors to it."
+  },
+  {
+    "file": "experiments/manfred_mohr2.js",
+    "name": "Name of your experiment",
+    "description": "It is another variation of manfred mohr artpiece. I tried to add some movement to it and make it more visually appealing."
+  },
+
+  {
+    "file": "experiments/circleoncircle.js",
+    "name": "Name of your experiment",
+    "description": "The idea was to create a grid of circles that are randomly filled with color. The purpose is to create a visually appealing pattern that is both random and structured. The coding process involved creating a grid of circles and then using a random function to fill each circle with a color. The implementation choices included using a fixed grid size and a limited color palette to create a cohesive look."
+  },
+  {
+    "file": "experiments/bublles.js",
+    "name": "Name of your experiment",
+    "description": "The idea was to add some Perlin noise to the circles to create a more dynamic and visually appealing pattern. The purpose is to create a pattern that is both random and structured, but with a more organic feel. I tried to recreate the bubbles effect by adding some noise to the circles."
+  },
+  {
+    "file": "experiments/dreams.js",
+    "name": "Name of your experiment",
+    "description": "The Idea was inspired by particles and flow fields. I tried to recreate something that is similar to how dreams flow in our minds.How one dream connect to another and how they are all connected to each other."
+  },
+  {
+    "file": "experiments/rain.js",
+    "name": "Name of your experiment",
+    "description": "The idea was to create rain effect using flow fields. I tried to create the flow of rain and how it falls down. The purpose was to create a visually appealing flow of rain."
+  },
+  {
+    "file": "experiments/ribbons.js",
+    "name": "Name of your experiment",
+    "description": "I was inspired by Taylor hobbs flow fields artpiece. The idea was to create how colors flow and connect to each other. The purpose was to show how different colors blend together and create something visually appealing."
+  },
+  {
+    "file": "experiments/squarerandom_tone.js",
+    "name": "Name of your experiment",
+    "description": "Here I have used the sqaure random patter and added some sound to it.The idea was to show how tone changes with the movement of colors."
   }
 ]
